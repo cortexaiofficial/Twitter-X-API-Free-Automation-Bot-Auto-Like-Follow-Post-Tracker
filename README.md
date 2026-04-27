@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Anti--Ban-Enabled-orange?style=for-the-badge" alt="Anti-Ban">
 </p> 
 
---- 
+---  
 
 ## ⚡ Get Full Twitter API Benefits for FREE
 This software allows you to automate your X (Twitter) presence without paying for expensive API tiers ($100/mo+). It uses advanced automation to bypass standard rate limits.
